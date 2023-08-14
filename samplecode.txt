@@ -1,0 +1,9 @@
+a = 7
+b = 8
+c = b + a
+l1 = [1,2,3]
+if c == 17:
+   print('hello')
+else:
+   if c in l1:
+      print('found')
